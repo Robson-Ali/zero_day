@@ -1,3 +1,1 @@
-#Hello Readme
-**This file is mandatory in projects**
-
+hello ubuntu
